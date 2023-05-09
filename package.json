@@ -24,7 +24,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@lewis-rotchell/wp-gutenberg-create-block": "^1.0.2",
+    "@lewis-rotchell/wp-gutenberg-create-block": "^1.0.5",
     "@wordpress/scripts": "^26.3.0",
     "autoprefixer": "^10.4.14",
     "postcss-loader": "^7.2.4",
